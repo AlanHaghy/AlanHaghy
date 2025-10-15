@@ -14,7 +14,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/haghy/
 - 😄 Pronouns: He/Him
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haghy/)
 
 - ### 🧠 Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=000)
